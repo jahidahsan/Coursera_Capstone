@@ -19,11 +19,11 @@ K-Means / Clustering
 Plotly  
 
 **Files Description**  
-**IBM_Capstone_Project.ipynb:** Colab Notebook that contains the coding requirements for final project.  
-**Project Report.pdf:** Provides the findings and analysis of the project.  
-**Exploring_&_Clustering_the_Neighborhoods_in_Toronto.ipynb:** Colab notebook that contains coding requirements for analysis of Toronto.  
-**islamabad_clustered.csv:** The final form of data used for analysis.  
-**README.txt:** This file, describing the contents of the project.  
-**IBM Data Science Professional Certificate:** The certificate earned after completing all 9 courses of this program.  
+* **IBM_Capstone_Project.ipynb:** Colab Notebook that contains the coding requirements for final project.  
+* **Project Report.pdf:** Provides the findings and analysis of the project.  
+* **Exploring_&_Clustering_the_Neighborhoods_in_Toronto.ipynb:** Colab notebook that contains coding requirements for analysis of Toronto.  
+* **islamabad_clustered.csv:** The final form of data used for analysis.  
+* **README.txt:** This file, describing the contents of the project.  
+* **IBM Data Science Professional Certificate:** The certificate earned after completing all 9 courses of this program.  
 
 This whole program was completed on Aug 18, 2020. The verification link for the certificate can be accessed [here](https://coursera.org/share/955f74ad8c8c53e186bb4c2788fc7edd).
