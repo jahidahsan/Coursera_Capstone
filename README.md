@@ -18,8 +18,7 @@ Folium
 K-Means / Clustering  
 Plotly  
 
-**How the Project is organized**  
-File Descriptions:  
+**Files Description**  
 **IBM_Capstone_Project.ipynb:** Colab Notebook that contains the coding requirements for final project.  
 **Project Report.pdf:** Provides the findings and analysis of the project.  
 **Exploring_&_Clustering_the_Neighborhoods_in_Toronto.ipynb:** Colab notebook that contains coding requirements for analysis of Toronto.  
